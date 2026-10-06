@@ -1,1 +1,1 @@
-Version from Branch B
+Version from Branch A and Branch B - Conflict Resolved
